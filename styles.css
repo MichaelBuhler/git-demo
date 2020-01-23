@@ -34,3 +34,7 @@ div#somo-logo div.sparks div.spark {
 div#somo-logo div.sparks div.spark:first-child {
     margin-left: 45px;
 }
+
+img#git-logo {
+    max-width: 280px;
+}
