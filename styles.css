@@ -8,6 +8,11 @@ div#flex-container {
     justify-content: center;
 }
 
+div#flex-container > div {
+    flex: 1 1;
+    text-align: center;
+}
+
 div#somo-logo div.spacer {
     height: 40px;
 }
