@@ -1,0 +1,15 @@
+div#somo-logo div.spacer {
+    height: 40px;
+}
+
+div#somo-logo div.sparks div.spark {
+    background-color: black;
+    height: 67px;
+    width: 229px;
+    margin: 30px;
+    transform: rotate(-30deg);
+}
+
+div#somo-logo div.sparks div.spark:first-child {
+    margin-left: 45px;
+}
