@@ -13,7 +13,8 @@ div#somo-logo div.spacer {
 }
 
 div#somo-logo div.sparks div.spark {
-    background-color: #ff508b;
+    border: 2px solid #37e6da;
+    background-color: rgba(55, 230, 218, 0.12);
     height: 67px;
     width: 229px;
     margin: 30px;
