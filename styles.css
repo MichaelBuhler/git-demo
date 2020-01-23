@@ -39,6 +39,22 @@ img#heart-image {
     max-width: 200px;
 }
 
+img#heart-image {
+    max-width: 200px;
+    animation-name: thump;
+    animation-duration: 1000ms;
+    animation-iteration-count: infinite;
+}
+
+@keyframes thump {
+    0% { transform:scale(1); }
+    10% { transform:scale(1.2); }
+    25% { transform:scale(1); }
+    35% { transform:scale(1.2); }
+    60% { transform:scale(1); }
+    100% { transform:scale(1); }
+}
+
 img#git-logo {
     max-width: 280px;
 }
