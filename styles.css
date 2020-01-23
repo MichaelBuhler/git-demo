@@ -1,6 +1,10 @@
 html {
-  color: #ffffff;
-  background-color: #222222;
+    color: #ffffff;
+    background-color: #222222;
+}
+
+h1 {
+    text-align: center;
 }
 
 div#flex-container {
