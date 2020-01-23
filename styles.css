@@ -9,7 +9,8 @@ h1 {
 
 div#flex-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
 }
 
 div#flex-container > div {
